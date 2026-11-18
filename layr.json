@@ -8,7 +8,7 @@
   "icon": "school",
   "kind": "app",
   "dependencies": {
-    "wiki": "^0.1",
+    "wiki": ">=0.1.0, <0.3.0",
     "browser": "^0.1",
     "claude": "^0.3"
   },
