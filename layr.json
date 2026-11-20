@@ -1,16 +1,16 @@
 {
   "id": "knowledge",
   "name": "Knowledge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A pack for learning things: Claude researches the web into your wiki, and a desk for reading next to it.",
   "author": "layr",
   "layr": "^0.1",
   "icon": "school",
   "kind": "app",
   "dependencies": {
-    "wiki": ">=0.1.0, <0.3.0",
-    "browser": "^0.1",
-    "claude": "^0.3"
+    "wiki": ">=0.1.0, <1.0.0",
+    "browser": ">=0.1.0, <1.0.0",
+    "claude": ">=0.3.0, <1.0.0"
   },
   "sessions": [
     {
